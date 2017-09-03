@@ -1,18 +1,12 @@
-## Hello Card + Five Card Dialer Privacy Policy
+## alQuran Privacy Policy
 
-This document describes how Hello Card + Five Card Dialer handles your privacy. To summarize: Hello Card + Five Card Dialer itself functions entirely client side and does not share any data with external servers. All data is stored and processed on your phone.
+This document describes how alQuran application handles your privacy. To summarize: alQuran itself functions entirely client side and does not share any data with external servers. All data is stored and processed on your phone.
 
 ### Access to hardware in Android
 
-Hello Card + Five Card Dialer may request access to the following hardware based on what features you use:
-
-   1) CALL_PHONE : 
-      Application is using native calling functionality to make call.
-   
-   2) READ_CONTACTS: 
-      Application requests user for accessing phone contacts, that will make user to select the number directly from contact and dial to that number.
+alQuran may request access to the following hardware based on what features you use:
       
-   3) INTERNET
+   1) INTERNET
       Application contains Ads from google. if internet is not available will not show Ads and will hide the area for Ads to get more space in screen.
       
 ### Stoarge of card data
