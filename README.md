@@ -8,11 +8,7 @@ alQuran may request access to the following hardware based on what features you 
       
    1) INTERNET
       Application contains Ads from google. if internet is not available will not show Ads and will hide the area for Ads to get more space in screen.
-      
-### Stoarge of card data
-
-Hello Card + Five Card Dialer stores card details only inside application. It is not available to any other users
-
+     
 ### Support or Contact
 
 Contact on sayedsamedapps@gmail.com for any support required for apps.
